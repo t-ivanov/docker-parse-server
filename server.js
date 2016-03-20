@@ -11,7 +11,8 @@ var configMapping = {
   clientKey:     'PARSE_CLIENT_KEY',
   javascriptKey: 'PARSE_JAVASCRIPT_KEY',
   restAPIKey:    'PARSE_REST_API_KEY',
-  dotNetKey:     'PARSE_DOTNET_KEY'
+  dotNetKey:     'PARSE_DOTNET_KEY',
+  serverURL: 	   'PARSE_SERVER_URL'
 };
 
 // Specify the connection string for your mongodb database
